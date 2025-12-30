@@ -2,7 +2,7 @@
   <a href="https://darshanwadile.in/">
     <img
       alt="Darshan Wadile"
-      src="./assets/blue.jpg"
+      src="./assets/blue.png"
       width="100%"
     />
   </a>
