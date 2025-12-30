@@ -25,7 +25,7 @@
 <p align="left">
 
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://darshanwadile.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,figma,notion,reactrouter,nodejs,expressjs,postgresql,mongodb,git,github,vercel,cloudflare,python,c&theme=dark&titles=true)](https://darshanwadile.in)
 
   <!-- jest -->
 </p>
@@ -42,12 +42,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <details>
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
-    <b>Stats Overview</b>
+  <summary><b>📊 Stats Overview</b></summary>
 
-  
-  </summary>
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
