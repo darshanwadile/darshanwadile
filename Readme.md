@@ -56,12 +56,16 @@
         <img width="410" src="https://github-readme-stats-three-theta-22.vercel.app/api?username=darshanwadile&include_all_commits=true&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
       </a>
     </span>
-    <span>
-      <a href="https://darshanwadile.in">
-        <img width="430"
-  src="https://streak-stats.demolab.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
-  alt="streak stats" />
-    </span>
+   <span>
+  <a href="https://darshanwadile.in">
+    <img
+      width="430"
+      src="https://streak-stats.demolab.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
+      alt="streak stats"
+    />
+  </a>
+</span>
+
   </div>
 </details>
 
