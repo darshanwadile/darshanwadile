@@ -61,8 +61,6 @@
         <img width="430"
   src="https://streak-stats.demolab.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
   alt="streak stats" />
-
-      </a>
     </span>
   </div>
 </details>
