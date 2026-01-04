@@ -6,10 +6,12 @@
       width="100%"
     />
   </a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 <br/>
 
 <!-- - 🔭 I'm currently working on [darshanwadile.in](https://darshanwadile.in) -->
+**A Full Stack Engineer**
 
 - 🌱 I'm currently learning **DevOps**
 
@@ -58,11 +60,12 @@
     </span>
    <span>
   <a href="https://darshanwadileportfolio.netlify.app">
-    <img
-      width="430"
-      src="https://streak-stats.demolab.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
-      alt="streak stats"
-    />
+   <img
+  width="430"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
+  alt="streak stats"
+/>
+
   </a>
 </span>
 
@@ -71,7 +74,7 @@
 
 
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 
