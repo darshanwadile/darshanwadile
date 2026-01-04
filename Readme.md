@@ -17,7 +17,7 @@
 
 - 👨‍💻 My projects are available at [https://darshanwadileportfolio.netlify/projects](https://darshanwadileportfolio./projects)
 
-- 📫 How to reach me **<hello@darshanwadile.in>**
+- 📫 How to reach me **<darshanwadile10@gmail.com>**
 
 <br/>
 
