@@ -10,14 +10,19 @@
 <br/>
 <br/>
 
-<!-- - 🔭 I'm currently working on [darshanwadile.in](https://darshanwadile.in) -->
-**A Full Stack Engineer**
+<!-- - 🔭 I'm currently working on [darshanwadile](https://darshanwadile) -->
+**A Full-Stack Engineer building scalable web applications**
 
-- 🌱 I'm currently learning **DevOps**
+- 🌱 Currently learning **DevOps, Cloud & CI/CD**
 
-- 👨‍💻 My projects are available at [https://darshanwadileportfolio.netlify/projects](https://darshanwadileportfolio./projects)
+- 👨‍💻 Building modern full-stack projects with production-ready stacks
 
-- 📫 How to reach me **<darshanwadile10@gmail.com>**
+- 💡 Interested in system design, performance & clean architecture
+
+- 🌐 Portfolio: https://darshanwadileportfolio.netlify/projects
+
+- 📫 Reach me at **<darshanwadile10@gmail.com>**
+
 
 <br/>
 
