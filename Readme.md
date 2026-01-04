@@ -1,5 +1,5 @@
 
-  <a href="https://darshanwadile.in/">
+  <a href="https://darshanwadileportfolio.netlify.app/">
     <img
       alt="Darshan Wadile"
       src="./assets/blue.png"
@@ -10,8 +10,10 @@
 <br/>
 <br/>
 
-<!-- - 🔭 I'm currently working on [darshanwadile](https://darshanwadile) -->
+
 **A Full-Stack Engineer building scalable web applications**
+
+<!-- - 🔭 I'm currently working on [darshanwadile](https://darshanwadile) -->
 
 - 🌱 Currently learning **DevOps, Cloud & CI/CD**
 
@@ -19,7 +21,7 @@
 
 - 💡 Interested in system design, performance & clean architecture
 
-- 🌐 Portfolio: https://darshanwadileportfolio.netlify/projects
+- 🌐 Portfolio: https://darshanwadileportfolio.netlify.app/projects
 
 - 📫 Reach me at **<darshanwadile10@gmail.com>**
 
@@ -49,22 +51,22 @@
 
   <div align="center">
     <span>
-      <a href="https://darshanwadile.in">
+      <a href="https://darshanwadileportfolio.netlify.app/">
         <img width="330" src="https://github-readme-stats-three-theta-22.vercel.app/api/top-langs/?username=darshanwadile&count_private=true&langs_count=5&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
     </span>
     <!-- <span>
-      <a href="https://darshanwadile.in">
+      <a href="https://darshanwadileportfolio.netlify.app/">
         <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=darshanwadile&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
       </a>
     </span> -->
     <span>
-      <a href="https://darshanwadile.in">
+      <a href="https://darshanwadileportfolio.netlify.app/">
         <img width="410" src="https://github-readme-stats-three-theta-22.vercel.app/api?username=darshanwadile&include_all_commits=true&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
       </a>
     </span>
    <span>
-  <a href="https://darshanwadileportfolio.netlify.app">
+  <a href="https://darshanwadileportfolio.netlify.app/">
    <img
   width="430"
   src="https://github-readme-streak-stats.herokuapp.com/?user=darshanwadile&theme=dark&hide_border=true&border_radius=10&card_width=495"
