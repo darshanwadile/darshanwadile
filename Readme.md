@@ -15,7 +15,7 @@
 
 <!-- - 🔭 I'm currently working on [darshanwadile](https://darshanwadile) -->
 
-- 🌱 Currently learning **DevOps, Cloud & CI/CD**
+- 🌱 Currently learning **DevOps, Cloud**
 
 - 👨‍💻 Building modern full-stack projects with production-ready stacks
 
