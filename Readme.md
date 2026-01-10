@@ -21,7 +21,7 @@
 
 - 💡 Interested in system design, performance & clean architecture
 
-- 🌐 Portfolio: https://darshanwadileportfolio.netlify.app/projects
+<!-- - 🌐 Portfolio: https://darshanwadileportfolio.netlify.app/projects -->
 
 - 📫 Reach me at **<darshanwadile10@gmail.com>**
 
